@@ -1,4 +1,4 @@
-![Header](relative path to image).
+![Header]GitHub_banner_small.png.
 # pandas-challenge
 Create and manipulate Pandas DataFrames to analyze school and standardized test data.
 Based on the data analysis, we have observed:
